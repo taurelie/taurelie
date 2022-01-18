@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aurelie Pallini</h1>
 <h3 align="center">A passionate fulls stack developer from France</h3>
 
+<p align="center" color="blue">I come from the field of communication, I like designing, drawing, and futhermore, I love to create ! I've merged this whith my interrest for new technologies and learn to create websites</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aurelie-pallini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aurelie-pallini" height="30" width="40" /></a>
