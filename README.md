@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aurelie Pallini</h1>
-<h3 align="center">A passionate fulls stack developer from France</h3>
+<h3 align="center">A passionate full stack developer from France</h3>
 
 <p align="center">I come from the field of communication, I like designing, drawing, and futhermore, I love to create ! I've merged this whith my interrest for new technologies and learn to create websites</p>
 
